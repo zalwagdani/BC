@@ -1,4 +1,4 @@
-# my-project
+# Ziyad Business Card
 
 ## Project setup
 ```
