@@ -35,7 +35,7 @@ export default {
       linkedin: "https://www.linkedin.com/in/zalwagdani/",
       // Photo URL (change to your own photo URL)
       photo:
-        "https://media.licdn.com/dms/image/v2/D4E03AQEALGKhXYJ71w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730799949354?e=1743033600&v=beta&t=HlmmpvVuVgBkzZ9oEuZtEb4Nbnl4l29FynaTCnmgIQ8",
+        "https://media.licdn.com/dms/image/v2/D4D03AQE4W2JDL8zS8Q/profile-displayphoto-shrink_400_400/B4DZSSiYj5G4Ak-/0/1737625276825?e=1743033600&v=beta&t=bQoPOE1njmUFC2mS1k6dU9DTxvcJAzboVE0swCiNA3c",
     };
   },
   methods: {
