@@ -28,6 +28,8 @@ export default {
     return {
       // Personal Information
       name: "Ziyad Al-Wagdani",
+      firstName: "Ziyad",
+      lastName: "Al-Wagdani",
       position: "Automation Engineer",
       company: "Rua Almadinah",
       email: "z.wagdani@ruaalmadinah.com",
@@ -43,7 +45,9 @@ export default {
       const vCardData = `
 BEGIN:VCARD
 VERSION:3.0
-ORG:${this.name}
+FN:${this.name} 
+N:${this.lastName};${this.firstName};;;
+ORG:${this.company}
 TEL:${this.phone}
 EMAIL:${this.email}
 URL:${this.linkedin}
